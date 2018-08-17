@@ -1,4 +1,3 @@
 # My Website
 
-This is a really awesome website
-New updates
+Updates before REBASE
